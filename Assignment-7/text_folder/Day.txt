@@ -1,0 +1,9 @@
+Day 4
+In Built Function : 
+count
+index
+Unpacking------a,b=(1,2)
+strip----a.lstrip and a.strip
+split----- a.split
+Dictionary{Keys:Values}
+Set{1,..}----- Unordered Huta Hai Ye
